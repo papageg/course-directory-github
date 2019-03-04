@@ -2,7 +2,7 @@
   "version": 2,
   "name": "course-directory",
   "builds": [
-    { "src": "package.json", "use": "@now/static-build" "config": { "distDir": "build" } }
+    { "src": "package.json", "use": "@now/static-build" }
   ],
   "routes": [
     {"src": "^/static/(.*)", "dest": "/static/$1"},
