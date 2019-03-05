@@ -2,9 +2,10 @@
   "name": "course-directory-github",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://papageg.github.io/course-directory-github/",
+  "homepage": "https://github.com/papageg/course-directory-github/tree/gh-pages",
   "dependencies": {
     "gh-pages": "^2.0.1",
+    "now": "^14.0.3",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
     "react-router-dom": "^4.3.1",

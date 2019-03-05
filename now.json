@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "course-directory",
+  "name": "course-directory-github",
   "builds": [
     { "src": "package.json", "use": "@now/static-build" }
   ],
