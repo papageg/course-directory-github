@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/course-directory-github/precache-manifest.df9626775e6a84ec798e256d85b36717.js"
+  "/papageg/course-directory-github/tree/gh-pages/precache-manifest.bcfefb8a525c9eabfb79c20f9cc23347.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/course-directory-github/index.html", {
+workbox.routing.registerNavigationRoute("/papageg/course-directory-github/tree/gh-pages/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

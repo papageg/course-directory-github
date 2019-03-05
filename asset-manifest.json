@@ -1,13 +1,13 @@
 {
-  "main.css": "/course-directory-github/static/css/main.0398ae98.chunk.css",
-  "main.js": "/course-directory-github/static/js/main.b65997ad.chunk.js",
-  "main.js.map": "/course-directory-github/static/js/main.b65997ad.chunk.js.map",
-  "static/js/1.c443b465.chunk.js": "/course-directory-github/static/js/1.c443b465.chunk.js",
-  "static/js/1.c443b465.chunk.js.map": "/course-directory-github/static/js/1.c443b465.chunk.js.map",
-  "runtime~main.js": "/course-directory-github/static/js/runtime~main.81540dd2.js",
-  "runtime~main.js.map": "/course-directory-github/static/js/runtime~main.81540dd2.js.map",
-  "static/css/main.0398ae98.chunk.css.map": "/course-directory-github/static/css/main.0398ae98.chunk.css.map",
-  "index.html": "/course-directory-github/index.html",
-  "precache-manifest.df9626775e6a84ec798e256d85b36717.js": "/course-directory-github/precache-manifest.df9626775e6a84ec798e256d85b36717.js",
-  "service-worker.js": "/course-directory-github/service-worker.js"
+  "main.css": "/papageg/course-directory-github/tree/gh-pages/static/css/main.2711dbd4.chunk.css",
+  "main.js": "/papageg/course-directory-github/tree/gh-pages/static/js/main.b295b27d.chunk.js",
+  "main.js.map": "/papageg/course-directory-github/tree/gh-pages/static/js/main.b295b27d.chunk.js.map",
+  "static/js/1.4a858404.chunk.js": "/papageg/course-directory-github/tree/gh-pages/static/js/1.4a858404.chunk.js",
+  "static/js/1.4a858404.chunk.js.map": "/papageg/course-directory-github/tree/gh-pages/static/js/1.4a858404.chunk.js.map",
+  "runtime~main.js": "/papageg/course-directory-github/tree/gh-pages/static/js/runtime~main.9e12d813.js",
+  "runtime~main.js.map": "/papageg/course-directory-github/tree/gh-pages/static/js/runtime~main.9e12d813.js.map",
+  "static/css/main.2711dbd4.chunk.css.map": "/papageg/course-directory-github/tree/gh-pages/static/css/main.2711dbd4.chunk.css.map",
+  "index.html": "/papageg/course-directory-github/tree/gh-pages/index.html",
+  "precache-manifest.bcfefb8a525c9eabfb79c20f9cc23347.js": "/papageg/course-directory-github/tree/gh-pages/precache-manifest.bcfefb8a525c9eabfb79c20f9cc23347.js",
+  "service-worker.js": "/papageg/course-directory-github/tree/gh-pages/service-worker.js"
 }
